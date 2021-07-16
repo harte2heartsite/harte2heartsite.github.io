@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+    <album lgPath="album1/images/" tnPath="album1/thumb/" title="Album title" description="Album description" tn="album1/preview.png">
+        <img src="1.png" title="" caption="" link="" target="_blank" pause="" />
+		<img src="2.png" title="" caption="" link="" target="_blank" pause="" />
+		<!-- <img src="3.png" title="" caption="" link="" target="_blank" pause="" /> -->
+    </album>
+</gallery>
